@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quote-Generator-using-React/static/css/main.4d096256.css",
+    "main.js": "/Quote-Generator-using-React/static/js/main.f34d102e.js",
+    "static/js/787.7d4a1291.chunk.js": "/Quote-Generator-using-React/static/js/787.7d4a1291.chunk.js",
+    "index.html": "/Quote-Generator-using-React/index.html",
+    "main.4d096256.css.map": "/Quote-Generator-using-React/static/css/main.4d096256.css.map",
+    "main.f34d102e.js.map": "/Quote-Generator-using-React/static/js/main.f34d102e.js.map",
+    "787.7d4a1291.chunk.js.map": "/Quote-Generator-using-React/static/js/787.7d4a1291.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d096256.css",
+    "static/js/main.f34d102e.js"
+  ]
+}
